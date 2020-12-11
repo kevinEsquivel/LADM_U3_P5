@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "223925569374",
+    "project_id": "ladmu3p5",
+    "storage_bucket": "ladmu3p5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223925569374:android:86496ad99e6a08c95571cf",
+        "android_client_info": {
+          "package_name": "com.example.ladm_u3_p5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223925569374-mp9eeendt50usq9e3pdkpls6kl8f2vld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQmRR1my98-dxABl26YlJSt1p-Z280hWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223925569374-mp9eeendt50usq9e3pdkpls6kl8f2vld.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
